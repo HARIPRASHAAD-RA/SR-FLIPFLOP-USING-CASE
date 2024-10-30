@@ -69,5 +69,5 @@ endmodule
 **TIMING DIGRAMS FOR FLIP FLOPS**
 ![Screenshot (211)](https://github.com/user-attachments/assets/d231c219-f824-4073-b636-c82ef3055408)
 
-**RESULTS**
+**RESULTS**   
 The observation of the simulation results and confirm the successful execution of the program.
