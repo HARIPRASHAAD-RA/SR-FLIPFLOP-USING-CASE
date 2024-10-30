@@ -70,4 +70,5 @@ endmodule
 ![Screenshot (211)](https://github.com/user-attachments/assets/d231c219-f824-4073-b636-c82ef3055408)
 
 **RESULTS**   
-The observation of the simulation results and confirm the successful execution of the program.
+  
+Thus the program to implement a SR flipflop using verilog and validating their functionality using their functional tables is successfully completed.
